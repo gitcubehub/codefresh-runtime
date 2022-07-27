@@ -1,0 +1,4 @@
+{
+  "name": "k3d-tenant1",
+  "server": "https://0.0.0.0:40169"
+}
